@@ -1,0 +1,73 @@
+body{
+    background-color:grey;
+    background-size:100% ;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding:20px;
+}
+
+.reg{
+    width:100%;
+    margin:auto;
+    background-color:black;
+
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding:20px;
+
+}
+label{color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    padding:20px;
+
+}
+
+#ma{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    padding:20px;
+
+}
+
+#reg{
+    width:20%;
+    margin:auto
+}
+#name{
+    width:300px;
+    outline:0;
+    padding: 5px;
+    border: 3px groove;
+}
+
+#ch{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    padding:20px;
+
+}
+#email{
+    width:300px;
+    outline:0;
+    padding: 5px;
+    border: 3px groove;
+}
+#number{
+    width:300px;
+    outline:0;
+    padding: 5px;
+    border: 3px groove;
+}
